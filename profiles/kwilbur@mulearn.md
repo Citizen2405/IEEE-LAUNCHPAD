@@ -1,7 +1,9 @@
 # K Wilbur Donovan
 ### About Me
 
-> Hi I am Wilbur. 
+> Hi I am Wilbur.
+A BTech Computer Science graduate.
+2023 passout.
 I am an avid learner. 
 I am skilled in designing tools such as figma. 
 I am proficient in various programming languages such as python, Java and C. 
