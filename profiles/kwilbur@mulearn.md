@@ -1,11 +1,5 @@
 # K Wilbur Donovan
-### About Me
-
-> Hi I am Wilbur. 
-I am an avid learner. 
-I am skilled in designing tools such as figma. 
-I am proficient in various programming languages such as python, Java and C. 
-I am familiar with MySQL and basics of front end developement(HTML|CSS|JavaScript).
+### Hi, I am Wilbur. I am a 2023 BTech CS graduate. I am passionate about designing and software developement. I am proficient in various designing tools such as Figma, Illustrator and Photoshop. I also have a sound understanding of various programming languages such as Java, Python, C/C++, JavaScript and I am familiar with HTML/CSS. I am an avid learner who is excited to put my skills in its best use at every opportunity that presents. 
 
 
 ## Portfolio Highlights
@@ -14,48 +8,44 @@ I am familiar with MySQL and basics of front end developement(HTML|CSS|JavaScrip
 
 | Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
 |---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
-| **Project Name 1**  | Description of the project 1                                              | [Hosted Link 1](https://example.com)    | [Repo Link 1](https://github.com/username/project1)             |
-| **Project Name 2**  | Description of the project 2                                              | [Hosted Link 2](https://example.com)    | [Repo Link 2](https://github.com/username/project2)             |
+| **TicTacToe**  | TicTacToe using Java                                              | [Hosted Link 1](https://example.com)    | [TicTacToe](https://github.com/Citizen2405/TicTacToeJava)            |
+| **Snake**  | Snake game using Java                                              | [Hosted Link 2](https://example.com)    | [Python](https://github.com/Citizen2405/Snake)             |
 
 #### Leadership and Influence:
 
-- Explain how you meet the requirement for being a leader or influencer in your domain. Provide clear examples of your leadership and influencing skills.
+Throughout my education I have been active in every group activities I could be part of, including captaincy of various sports teams where we achieved the best results. 
 
 #### Networking:
 
-- Explain your networking skills and how you plan to engage with the communitys. Outline how you will influence and lead others in your respective field.
+I am an active member of several organizations such as MuLearn where I have collaborated and worked with my peers. One of my finest skill is interpersonal communication which makes me an excellent collaborator. 
 
 #### Career Plan:
 
-- Outline your immediate and longer-term plans to contribute to making the Kerala Startup Ecosystem better.
+I have a strong background in computer science my goal is to learn as much as I can in the field of software developement and to keep myself updated regularly regarding the advancements in the field. 
 
 #### Thoughts on Kerala's Tech Ecosystem:
 
-- Share your thoughts on how Kerala can excel in the Technology Startup Ecosystem for the future.
-
-#### History of Open Source Contributions:
-
-- Share details of your open-source contributions, whether they are your own projects or contributions to highly popular projects in the open-source community.
-
-#### History of Community Engagement:
-
--  Discuss your history of community engagement in a technical capacity, such as answering questions on platforms like Stack Overflow or actively participating in technical forums like mailing lists and Discord servers.
-
-#### Highly Visible Technical Content:
-
-- Highlight any highly visible technical blog posts, articles, or video series you have created.
+Today's youth in kerala shows profound interest in various aspects of tech. With the help of many organizations such as muLearn which nurtures and nourishes such interested pupil, Kerala will be India's one of the top state in IT resourses. 
 
 #### Highly Used Software Tools:
 
-- If you've developed software tools that are widely used by users (not just contributors), mention them.
+##### Design Tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="50" style="margin: 10px;"/>
+</p>
 
-#### Competitive Website Profiles:
+##### Development Tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" style="margin: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" style="margin: 10px;"/>
+</p>
 
-- Share your profiles on competitive websites like Exercism, HackerRank, Kaggle, or any others you're active on.
 
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
